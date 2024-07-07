@@ -9,6 +9,13 @@ https://github.com/uttamt09/Theater-Seat-Booking-app
   4. Booking Confirmation: Once the user finalizes their seat selection, the application provides a booking confirmation. This includes updating the seat status to occupied, ensuring that       other users cannot select the same seats, and displaying a confirmation message to the user.
   5. Responsive Design: The application is designed to be fully responsive, making it accessible and functional across various devices, including desktops, tablets, and smartphones. This        ensures a consistent and enjoyable user experience regardless of the device used.
 
+![image](https://github.com/uttamt09/Theater-Seat-Booking-app/assets/139229602/bb59dc00-9f9d-4d42-8a24-7622f01d4f81)
+![image](https://github.com/uttamt09/Theater-Seat-Booking-app/assets/139229602/d6fde2dd-1498-4435-a950-7da5b4a29b9b)
+![image](https://github.com/uttamt09/Theater-Seat-Booking-app/assets/139229602/a25bb17c-87d7-4a0a-994b-1279b1f17d1d)
+![image](https://github.com/uttamt09/Theater-Seat-Booking-app/assets/139229602/b1b059c9-d124-434a-b742-f7a7014fdbf6)
+
+
+
 # Technologies Used:
 
   1. HTML: Used to structure the layout and elements of the application, ensuring a semantic and accessible design.
