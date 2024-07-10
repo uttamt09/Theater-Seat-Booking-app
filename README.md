@@ -2,6 +2,9 @@
   I developed a dynamic and user-friendly movie seating booking application using HTML, CSS, and JavaScript. This application enables users to effortlessly select and book seats for movies, with a real-time display of seat availability and pricing. The user interface is designed to be intuitive, ensuring a smooth booking experience for users of all technical backgrounds.
 https://github.com/uttamt09/Theater-Seat-Booking-app
 
+# Live website
+https://uttamt09.github.io/Theater-Seat-Booking-app/
+
 # Features
   1. Interactive Seating Layout: The application features a visually appealing seating chart that differentiates between available, selected, and occupied seats. Users can click on the          seats to select or deselect them, providing a clear visual representation of their choices.
   2. Movie Selection: A dropdown menu allows users to choose from a list of movies. Upon selection, the seating layout and pricing dynamically update to reflect the chosen movie, ensuring       accurate information is always displayed.
